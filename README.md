@@ -1,6 +1,6 @@
 # Circus
 The Circus Project
-
+- Used to demonstrate classes, interfaces, packages. 
 ### Credits
 
 Initial version of this project was developed by [Dr. Damith Rajapakse](https://github.com/damithc)
